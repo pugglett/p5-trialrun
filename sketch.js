@@ -5,7 +5,7 @@ var smiley;
 function preload() {
   // img1 = loadImage("images/sitting.png");
   // img2 = loadImage("images/standing.png");
-  smiley = loadImage('images/smiley.png');
+  smiley = loadImage('images/smile.png');
 }
 
 function setup() {
